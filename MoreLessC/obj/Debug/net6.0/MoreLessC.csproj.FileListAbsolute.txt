@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\MoreLessC\MoreLessC\bin\Debug\net6.0\MoreLessC.exe
+C:\Users\User\source\repos\MoreLessC\MoreLessC\bin\Debug\net6.0\MoreLessC.deps.json
+C:\Users\User\source\repos\MoreLessC\MoreLessC\bin\Debug\net6.0\MoreLessC.runtimeconfig.json
+C:\Users\User\source\repos\MoreLessC\MoreLessC\bin\Debug\net6.0\MoreLessC.dll
+C:\Users\User\source\repos\MoreLessC\MoreLessC\bin\Debug\net6.0\MoreLessC.pdb
+C:\Users\User\source\repos\MoreLessC\MoreLessC\obj\Debug\net6.0\MoreLessC.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MoreLessC\MoreLessC\obj\Debug\net6.0\MoreLessC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MoreLessC\MoreLessC\obj\Debug\net6.0\MoreLessC.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MoreLessC\MoreLessC\obj\Debug\net6.0\MoreLessC.AssemblyInfo.cs
+C:\Users\User\source\repos\MoreLessC\MoreLessC\obj\Debug\net6.0\MoreLessC.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MoreLessC\MoreLessC\obj\Debug\net6.0\MoreLessC.dll
+C:\Users\User\source\repos\MoreLessC\MoreLessC\obj\Debug\net6.0\refint\MoreLessC.dll
+C:\Users\User\source\repos\MoreLessC\MoreLessC\obj\Debug\net6.0\MoreLessC.pdb
+C:\Users\User\source\repos\MoreLessC\MoreLessC\obj\Debug\net6.0\MoreLessC.genruntimeconfig.cache
+C:\Users\User\source\repos\MoreLessC\MoreLessC\obj\Debug\net6.0\ref\MoreLessC.dll
