@@ -9,9 +9,11 @@ namespace MoreLessC
 
         static void Main(string[] args)
         {
+            Console.WriteLine("I made a pure wish from 0 to 1000. \nEnter the number that you think I made a wish for.\n");
+
             number = new Random().Next(0, 1000);
 
-            while (attempt > 0)
+            while (attempt >= 0)
             {
                 Console.Write("Input -->");
 
@@ -26,13 +28,13 @@ namespace MoreLessC
 
                     if (number == value)
                     {
-                        Console.WriteLine($"You guessed the number {number}!");
+                        Console.WriteLine($"You guessed the number!");
                         return;
                     }
                     else
                     {
                         var result = number > value ? "greater" : "less";
-                        Console.WriteLine($"You didn't guess the number. The hidden number is {result}");
+                        Console.WriteLine($"You didn't guess the number. The hidden number is {result} then {value}");
                     }
                 }
                 else
@@ -41,6 +43,8 @@ namespace MoreLessC
                     goto question;
                 }
             }
+
+            Console.WriteLine($"It was a number {number}");
         }
     }
 }
